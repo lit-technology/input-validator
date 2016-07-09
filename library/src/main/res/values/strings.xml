@@ -1,0 +1,12 @@
+<resources>
+    <string name="av_required_field">Required field</string>
+    <string name="av_email_address_is_invalid">Email address is invalid</string>
+    <string name="av_phone_number_is_invalid">Phone number is invalid</string>
+
+    <string name="av_password_must_contain_at_least_d_characters">Password must contain at least %1$d characters.</string>
+    <string name="av_password_must_contain_at_least_one_upper_case_letter">Password must contain at least 1 upper case letter.</string>
+    <string name="av_password_must_contain_at_least_one_lower_case_letter">Password must contain at least 1 lower case letter.</string>
+    <string name="av_password_must_contain_at_least_one_digit">Password must contain at least one digit.</string>
+    <string name="av_password_must_contain_at_least_one_special_character">Password must contain at least one special character.</string>
+    <string name="av_passwords_do_not_match">Passwords do not match</string>
+</resources>

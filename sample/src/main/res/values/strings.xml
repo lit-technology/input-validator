@@ -1,0 +1,13 @@
+<resources>
+	<string name="app_name">Android Validator</string>
+	<string name="title_activity_sample">SampleActivity</string>
+	<string name="on_focus_lost">On Focus Lost</string>
+	<string name="on_stop_typing">On Stop Typing</string>
+	<string name="show_error">Show Error</string>
+	<string name="required_validate">Required Validate</string>
+	<string name="text_input_layout_validate">Text Input Layout Validate</string>
+	<string name="email">Email</string>
+	<string name="phone_number">Phone Number</string>
+	<string name="password">Password</string>
+	<string name="confirm_password">Confirm Password</string>
+</resources>
